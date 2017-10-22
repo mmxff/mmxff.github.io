@@ -13,7 +13,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 weibo_username:     木木小方方
-zhihu_username:     林方智
+zhihu_username:     lin-fang-zhi-66
 github_username:    linfangzhi
 twitter_username:   linfangzhi
 #facebook_username:  huxpro
@@ -60,8 +60,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
@@ -79,8 +79,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
+#chrome-tab-theme-color: "#000000"
+#service-worker: true
 
 
 
