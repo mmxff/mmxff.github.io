@@ -9,6 +9,7 @@ catalog: true
 tags:
     - 生活
 ---
+# 酸酸乳 Mac正确的打开方式
 
 ### 1. 先下载SSR客户端↓
 
@@ -39,7 +40,7 @@ tags:
 * PAC自动模式：自动模式，App自己判断哪些走代理，哪些直连，不是完全智能
 * 全局模式：所有连接都走代理，包括国内连接
 
-**一般选择PAC模式**
+##### **一般选择PAC模式**
 
 ![](http://ww3.sinaimg.cn/large/0060lm7Tly1fpydc3o9rrj30av07bjss.jpg)
 
