@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mmlinfangzhi@163.com
 description: "这里是林方智的博客，虽然林方智本人也不知道用来干啥～～"
 keyword: "林方智, 博客, 个人网站, 互联网, 数据挖掘, 人工智能, 吃吃吃"
-url: "https://linfangzhi1.github.io"              # your host, for absolute URL
+url: "https://mmxff.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
